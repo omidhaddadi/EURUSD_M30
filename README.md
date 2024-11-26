@@ -69,6 +69,13 @@ This repository contains an MQL4 script for MetaTrader 4 (MT4), designed for aut
 
 ---
 
+## **Backtest Results**
+
+The following backtest results demonstrate the performance of the SPY_call_option_M30_v5 strategy under simulated conditions.
+  ![Backtest Summary](results/Strategy_Tester_EURUSD.pdf)
+
+---
+
 ## **Risk Disclaimer**
 Trading involves significant risk. This script is intended for **demo account use only** to evaluate strategy performance. Do not use it for live trading without proper testing and risk assessment.
 
